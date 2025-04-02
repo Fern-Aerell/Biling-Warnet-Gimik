@@ -1,3 +1,3 @@
-# BILING WARNET GIMIK
+# Internet cafe billing gimmick
 
-Program ini dibuat untuk gimic biling warnet saat AerellGamers live streaming.
+This program is created as a gimmick for internet cafe billing during live streaming.
